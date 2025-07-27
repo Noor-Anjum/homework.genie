@@ -1,7 +1,9 @@
 import streamlit as st
 import re
 import uuid
-from database import (
+git add homework_genie.py
+git commit -m "Temporarily remove database import to fix Streamlit error"
+git push origin main
     init_database, 
     log_user_interaction, 
     get_popular_topics, 
